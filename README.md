@@ -1,14 +1,11 @@
 <h1> SUDOKU </h1>
-
 <h2>Simple sudoku made in java</h2>
-
-
-
+<br>
 <span>Download link:</span>
-<a href="https://drive.google.com/uc?export=download&id=1Yh3q4cyjxRjM25Jpxv5UUVVylV5Ag3NH"></a>
-
-https://drive.google.com/file/d/1Yh3q4cyjxRjM25Jpxv5UUVVylV5Ag3NH/view?usp=sharing
-
+<a href="https://drive.google.com/uc?export=download&id=1Yh3q4cyjxRjM25Jpxv5UUVVylV5Ag3NH"> https://drive.google.com/uc?export=download&id=1Yh3q4cyjxRjM25Jpxv5UUVVylV5Ag3NH </a>
+<p><b>ATENTION PLEASE READ THE README.TXT FILE, BEFORE THE EXECUTE THE SUDOKU.EXE</b></p>
+<br>
+<br>
 <p>Screenshots screenshots of the app</p>
 
 ![WhatsApp Image 2023-07-05 at 20 38 32](https://github.com/guilhermeRizzatto/Sudoku-Java/assets/126302322/b3fdd99b-db1a-4290-962a-3ceec9f3212d)
