@@ -6,7 +6,7 @@
 <p><b>ATENTION PLEASE READ THE README.TXT FILE, BEFORE THE EXECUTE THE SUDOKU.EXE</b></p>
 <br>
 <br>
-<p>Screenshots screenshots of the app</p>
+<p>Screenshots of the app</p>
 
 ![WhatsApp Image 2023-07-05 at 20 38 32](https://github.com/guilhermeRizzatto/Sudoku-Java/assets/126302322/b3fdd99b-db1a-4290-962a-3ceec9f3212d)
 
